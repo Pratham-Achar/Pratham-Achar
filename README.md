@@ -185,9 +185,8 @@ Full-stack web app for managing student data.
 ---
 
 <div align="center">
-
-### ⭐ Thanks for stopping by — let's build something great together!
+⭐ Thanks for stopping by — let's build something great together!
 
 <img src="https://komarev.com/ghpvc/?username=Pratham-Achar&label=Profile%20Views&color=2E9EF7&style=flat" />
-
 </div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:8A2BE2&height=120&section=footer" width="100%"/>
